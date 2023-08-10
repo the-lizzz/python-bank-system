@@ -1,0 +1,8 @@
+{
+    "name": "test_user",
+    "balance": 0,
+    "address": "123 ABC street",
+    "phonenumber": "123456789",
+    "other-info": "-",
+    "user-password": "123"
+}
