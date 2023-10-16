@@ -1,4 +1,4 @@
-# python-bank-system
+# python-bank-system(PBS)
 a banking system made in python 
 ## How to run it?
 ```
