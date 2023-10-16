@@ -83,7 +83,7 @@ def bank_sys():
                     else:
                         print("PLEASE TRY AGAIN")
 os.system("clear")
-print("WELCOME TO THE-LIZZZ BANK SYSTEM")
+print("WELCOME TO PBS")
 usr = input("USERNAME:")
 pwd = input("PASSWORD:")
 while True:

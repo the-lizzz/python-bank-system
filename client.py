@@ -8,6 +8,9 @@ if 1==1:
                 pwd = input("password>")
                 with open(f'db/{uname}') as f:
                     pw = json.load(f)['user-password']
+            else:
+                 print("EXITING...")
+                 exit()
         while True:
                     if pwd == pw:
                         promptu = input(f"{uname}/command>")
